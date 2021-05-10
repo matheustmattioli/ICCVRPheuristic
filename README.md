@@ -9,7 +9,7 @@ For now using python with those algorithms:
 Despite we reach great solutions for TSP, we want to reach great solutions for VRP, thus, in next steps we want to implement a Local Search for VRP. 
  
 We compile this program in this form, python solve.py [instance] [clusterization_method*]
-* Clustization methodds below:
-  1. greedypath
-  2. serial
-  3. paralelo
+* Clustization methods below:
+  - 1 for greedypath
+  - 2 for serial
+  - 3 for parallel
